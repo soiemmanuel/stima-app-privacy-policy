@@ -32,7 +32,7 @@ We want to inform you that whenever you use our Service, in a case of an error i
 
 ## 3. Service Providers
 
-The app communicates directly with the **Kenya Power and Lighting Company (KPLC)** public self-service API.
+The app communicates directly with the **Kenya Power and Lighting Company (KPLC)** public self-service API (https://selfservice.kplc.co.ke/).
 *   We rely on KPLC for the accuracy of bill and token data.
 *   We make no claim of ownership over the data fetched; it remains the property of the utility provider.
 
